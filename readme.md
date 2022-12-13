@@ -3,6 +3,4 @@ In this project we will train the YOLOv4 network on 3 classes 'Ambulance' , 'Car
 
 
 
-https://user-images.githubusercontent.com/104730536/207229169-cbf9cfc6-fcf3-4d3e-884a-39be29bb4813.mp4
-
 
